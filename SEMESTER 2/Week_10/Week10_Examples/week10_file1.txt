@@ -1,0 +1,3 @@
+Hello. How are you today?
+Today we are learning about reading and writing a string to/from a file.
+Bye

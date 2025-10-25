@@ -1,0 +1,39 @@
+[2025-03-18] #Structures
+
+
+TODO:
+[ ] Complete Question 1 and 2 of the lab.
+[ ] Do the 2022/2023 Q 2 Summer Exam Paper long Questions.
+[ ] Look at week 8 tutorial notes
+
+
+Notes:
+#Summer 22/23
+1b) char *my_array[3] ={""Yesterday"", ""Today"", ""Tommorrow""};
+
+1h)
+struct date
+{
+    int day[2];
+    int month[2];
+    int year[4];
+};
+
+
+ struct person
+{
+    char firstname [11]; -> if 10 then 11 for allow of NULL Character
+    char surname [21];  
+    struct date DOB;             
+};
+
+#Summer 21/22
+1d) unsigned  there is no negative components stored in the variable.
+
+1j) is a memory leak as num and ptr will dispear into memory after function is finsished. make the int *ptr a static variable.
+
+1l) you are creating a simndo name INTEGER_POINTER to coralate to pointer integers so p1 is and integer pointer.
+
+
+Activity Log:
+

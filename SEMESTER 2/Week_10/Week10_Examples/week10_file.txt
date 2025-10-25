@@ -1,0 +1,4 @@
+Today is Wednesday
+Tomorrow is Thursday
+Computer Science at TU Dublin
+Good bye
